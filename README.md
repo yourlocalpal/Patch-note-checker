@@ -15,9 +15,7 @@ How to use
     Clone this repository.
     Install the required packages.
     Replace BOT_ID and CHANNEL_ID with your Discord bot ID and the ID of the channel you want to send the patch notes to.
-    Run the bot with the following command:
-
-python app.py
+    Run the bot with the following command: python app.py
 
 The bot will automatically run the check_for_patch_notes() task every hour to check for new patch notes. You can also use the !patch_notes command to manually send the latest patch notes to the Discord channel.
 
