@@ -23,3 +23,5 @@ If there are no recent patch notes, the bot will send the message "Sorry, could 
 Acknowledgements
 
 This bot was created with the Discord.py library and the Beautiful Soup library.
+
+This is an early work in progress.
