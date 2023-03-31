@@ -9,6 +9,7 @@ This bot requires the following packages:
     discord.py
     beautifulsoup4
     requests
+    asyncio
 
 How to use
 
